@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working in Factors Group
 - 🌱 I’m currently learning Azure & DevOps
 - 💬 Ask me about machine learning, data science, AI, etc.
-- 📫 How to reach me: ...
+- 📫 How to reach me: MS Teams
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm a snowboarder 🏂 and a golfer 🏌️
 
