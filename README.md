@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working in Factors Group
-- 🌱 I’m currently learning Azure & DevOps
+- 🌱 I’m currently learning Apache Spark and Azure Databricks
 - 💬 Ask me about machine learning, data science, AI, etc.
 - 📫 How to reach me: MS Teams
 - 😄 Pronouns: He/Him/His
